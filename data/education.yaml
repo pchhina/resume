@@ -1,0 +1,15 @@
+- name: "BSc. Computer Science"
+  university: "Goldsmiths, University of London"
+  more: "" # Optional field, if you want to add a non-standard line.
+  date: "2019- 2023"
+  gpa: ""
+
+- name: "MS Mechanical Engineering"
+  university: "Michigan Tech"
+  date: "2003 - 2006"
+  gpa: ""
+
+- name: "BS Mechanical Engineering"
+  university: "Thapar University"
+  date: "1998 - 2002"
+  gpa: ""

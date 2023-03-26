@@ -1,0 +1,94 @@
+about:
+  name: paramjot singh
+  tagline: Data Science | Computing | Mobility
+  phone: "812-344-5254"
+  email: param.chhina@gmail.com
+  links:
+    - title: /in/paramchhina
+      url: https://linkedin.com/in/paramchhina
+      icon: fab fa-linkedin
+    - title: paramsingh
+      url: https://paramsingh.dev/
+      icon: fas fa-globe
+    - title: pchhina
+      url: https://github.com/pchhina
+      icon: fab fa-github
+  details: |
+    Experienced problem solver with growth mindset and unique skill set combining strong interest in 
+    computing and physical systems engineering.
+    Effective communication skills developed through teaching software, writing blogs and collaborating with cross-functinal teams.
+
+skills:
+  - groupName: Databases & Visualization
+    list:
+      - ggplot - matplotlib
+      - SQL - NoSQL
+
+  - groupName: Data Analysis & Analytics
+    list:
+      - Python - R - Julia
+      - Excel
+
+  - groupName: Machine Learning
+    list:
+      - Caret - scikit-learn
+
+  - groupName: Programming
+    list:
+      - JavaScript - C - C++
+      - Lisp - Racket - Haskell - OCaml
+
+  - groupName: Model Based Design
+    list:
+      - GT-SUITE
+
+  - groupName: Web Development
+    list:
+      - HTML5 - CSS3 - JavaScript
+
+interests:
+  - Data Science
+  - AI Applications
+  - Mobility
+  - Embedded Systems
+  - Functional Programming
+  - Design Optimization
+
+languages:
+  - name: Turkish
+    level: Native
+
+  - name: English
+    level: Professional
+    certificates:
+      - "YDS: 86.25 - 2018"
+      - "TOEFL: 109 - 2021"
+
+# This will use the default widget: "details-list"
+awards:
+  - title: "Tübitak - Graduation Project"
+    date: "2017"
+    subtitle: "A Decision Support System for 3D Cutting Problem"
+    #details: |
+    #   - add more here if you like to.
+    #   - or just comment out/delete the field.
+    links:
+      - title: example
+        url: https://mertbakir.gitlab.io
+        icon: fas fa-bolt
+        prefix: "This is an " # use quotation marks if you want to pass the tailing space.
+      - title: second link.
+        url: https://esdfdsfdsf
+        icon: "-" # you can get rid of the icon by entering dummy text
+        prefix: "omg"
+
+certificates:
+  - title: "Supervised Learning: Regression"
+    subtitle: Coursera
+    date: "2020"
+    link: https://xkcd.com/605/ # This link will be on title level.
+
+  - title: "Supervised Learning: Classification"
+    subtitle: Coursera
+    date: "2020"
+    link: https://xkcd.com/388/

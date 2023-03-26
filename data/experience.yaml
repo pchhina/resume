@@ -1,0 +1,33 @@
+- company: Personal Projects
+  roles:
+    - role: Data Science
+      details:
+        "Developed applications in the areas of education (quizzing app in R), data visualization (R), mobile
+        (word prediction) and healthcare (drug discovery)."
+    - role: Computing
+      details:
+        "Developed applications in the areas of gaming (Pong in Python, Space Invaders in Racket), finance (automated
+        trading in C++) and Web (Collaboration app in Django, Newsletter in HTML and CSS, Drawing app in JavaScript)."
+
+- company: Navistar Inc.
+  roles:
+    - role: ECU Manager
+      details: "Managing product delivery of body controller used in multiple electric and autonomous vehicle programs."
+      date: "01.2023 -  Present"
+
+- company: Gamma Technologies
+  roles:
+    - role: Senior Applications Engineer
+      details: "Designed and developed several GT-SUITE's application and UI libraries. Lead several software evaluations and promoted
+      novel applications of the software. Collaborated with global customers to understand their deliverables and drive product development
+      to support their programs." 
+      date: "09.2011 - 01.2023"
+    - role: Training
+      details: "Designed and delivered customized trainings, classes, seminars and webinars for current customers and prospects."
+
+- company: Cummins Inc.
+  roles:
+    - role: Performance Engineer
+      details: "Designed tests, collected and analyzed data to recommend optimal performance systems (engines and emissions control)
+      for multiple engine programs. Developed and supported analyses led design approach to reduce product development costs and time-to-market."
+      date: "01.2006 - 09.2011"
